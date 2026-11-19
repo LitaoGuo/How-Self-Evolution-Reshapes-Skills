@@ -1,0 +1,583 @@
+experiment,benchmark,model,condition,x,value
+performance,SkillsBench,GPT-5.6-Luna,rewritten,0,44.8
+performance,SkillsBench,GPT-5.6-Luna,rewritten,1,33.3
+performance,SkillsBench,GPT-5.6-Luna,rewritten,5,26.4
+performance,SkillsBench,GPT-5.6-Luna,rewritten,10,29.9
+performance,SkillsBench,GPT-5.6-Luna,rewritten,30,21.8
+performance,SkillsBench,GPT-6.1-Sol,rewritten,0,55.2
+performance,SkillsBench,GPT-6.1-Sol,rewritten,1,47.1
+performance,SkillsBench,GPT-6.1-Sol,rewritten,5,46.0
+performance,SkillsBench,GPT-6.1-Sol,rewritten,10,41.4
+performance,SkillsBench,GPT-6.1-Sol,rewritten,30,42.5
+performance,SkillsBench,MiMo-V2.5-Pro,rewritten,0,26.4
+performance,SkillsBench,MiMo-V2.5-Pro,rewritten,1,28.7
+performance,SkillsBench,MiMo-V2.5-Pro,rewritten,5,18.4
+performance,SkillsBench,MiMo-V2.5-Pro,rewritten,10,25.3
+performance,SkillsBench,MiMo-V2.5-Pro,rewritten,30,14.9
+performance,SkillsBench,Qwen3.7-Plus,rewritten,0,39.1
+performance,SkillsBench,Qwen3.7-Plus,rewritten,1,29.9
+performance,SkillsBench,Qwen3.7-Plus,rewritten,5,24.1
+performance,SkillsBench,Qwen3.7-Plus,rewritten,10,21.8
+performance,SkillsBench,Qwen3.7-Plus,rewritten,30,21.8
+performance,SkillsBench,Claude Haiku 5.5,rewritten,0,47.1
+performance,SkillsBench,Claude Haiku 5.5,rewritten,1,44.8
+performance,SkillsBench,Claude Haiku 5.5,rewritten,5,39.1
+performance,SkillsBench,Claude Haiku 5.5,rewritten,10,36.8
+performance,SkillsBench,Claude Haiku 5.5,rewritten,30,34.5
+performance,SkillsBench,Qwen3.8-Flash,rewritten,0,28.7
+performance,SkillsBench,Qwen3.8-Flash,rewritten,1,14.9
+performance,SkillsBench,Qwen3.8-Flash,rewritten,5,21.8
+performance,SkillsBench,Qwen3.8-Flash,rewritten,10,17.2
+performance,SkillsBench,Qwen3.8-Flash,rewritten,30,18.4
+performance,LogicBench,GPT-5.6-Luna,rewritten,0,91.6
+performance,LogicBench,GPT-5.6-Luna,rewritten,1,82.9
+performance,LogicBench,GPT-5.6-Luna,rewritten,5,76.8
+performance,LogicBench,GPT-5.6-Luna,rewritten,10,76.7
+performance,LogicBench,GPT-5.6-Luna,rewritten,30,72.1
+performance,LogicBench,GPT-6.1-Sol,rewritten,0,92.1
+performance,LogicBench,GPT-6.1-Sol,rewritten,1,81.7
+performance,LogicBench,GPT-6.1-Sol,rewritten,5,78.4
+performance,LogicBench,GPT-6.1-Sol,rewritten,10,78.0
+performance,LogicBench,GPT-6.1-Sol,rewritten,30,76.1
+performance,LogicBench,MiMo-V2.5-Pro,rewritten,0,81.8
+performance,LogicBench,MiMo-V2.5-Pro,rewritten,1,81.7
+performance,LogicBench,MiMo-V2.5-Pro,rewritten,5,75.3
+performance,LogicBench,MiMo-V2.5-Pro,rewritten,10,73.2
+performance,LogicBench,MiMo-V2.5-Pro,rewritten,30,69.3
+performance,LogicBench,Qwen3.7-Plus,rewritten,0,91.8
+performance,LogicBench,Qwen3.7-Plus,rewritten,1,87.8
+performance,LogicBench,Qwen3.7-Plus,rewritten,5,84.3
+performance,LogicBench,Qwen3.7-Plus,rewritten,10,82.5
+performance,LogicBench,Qwen3.7-Plus,rewritten,30,80.7
+performance,LogicBench,Claude Haiku 5.5,rewritten,0,70.8
+performance,LogicBench,Claude Haiku 5.5,rewritten,1,68.9
+performance,LogicBench,Claude Haiku 5.5,rewritten,5,67.2
+performance,LogicBench,Claude Haiku 5.5,rewritten,10,66.1
+performance,LogicBench,Claude Haiku 5.5,rewritten,30,63.9
+performance,LogicBench,Qwen3.8-Flash,rewritten,0,88.8
+performance,LogicBench,Qwen3.8-Flash,rewritten,1,82.5
+performance,LogicBench,Qwen3.8-Flash,rewritten,5,75.8
+performance,LogicBench,Qwen3.8-Flash,rewritten,10,71.2
+performance,LogicBench,Qwen3.8-Flash,rewritten,30,66.4
+performance,MedCalc-Bench,GPT-5.6-Luna,rewritten,0,89.1
+performance,MedCalc-Bench,GPT-5.6-Luna,rewritten,1,86.0
+performance,MedCalc-Bench,GPT-5.6-Luna,rewritten,5,83.1
+performance,MedCalc-Bench,GPT-5.6-Luna,rewritten,10,83.0
+performance,MedCalc-Bench,GPT-5.6-Luna,rewritten,30,85.5
+performance,MedCalc-Bench,GPT-6.1-Sol,rewritten,0,90.2
+performance,MedCalc-Bench,GPT-6.1-Sol,rewritten,1,79.3
+performance,MedCalc-Bench,GPT-6.1-Sol,rewritten,5,75.3
+performance,MedCalc-Bench,GPT-6.1-Sol,rewritten,10,74.2
+performance,MedCalc-Bench,GPT-6.1-Sol,rewritten,30,73.7
+performance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,0,85.5
+performance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,1,83.8
+performance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,5,86.0
+performance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,10,80.1
+performance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,30,79.5
+performance,MedCalc-Bench,Qwen3.7-Plus,rewritten,0,91.6
+performance,MedCalc-Bench,Qwen3.7-Plus,rewritten,1,83.5
+performance,MedCalc-Bench,Qwen3.7-Plus,rewritten,5,81.5
+performance,MedCalc-Bench,Qwen3.7-Plus,rewritten,10,79.5
+performance,MedCalc-Bench,Qwen3.7-Plus,rewritten,30,81.5
+performance,MedCalc-Bench,Claude Haiku 5.5,rewritten,0,91.4
+performance,MedCalc-Bench,Claude Haiku 5.5,rewritten,1,89.1
+performance,MedCalc-Bench,Claude Haiku 5.5,rewritten,5,84.7
+performance,MedCalc-Bench,Claude Haiku 5.5,rewritten,10,81.5
+performance,MedCalc-Bench,Claude Haiku 5.5,rewritten,30,74.0
+performance,MedCalc-Bench,Qwen3.8-Flash,rewritten,0,90.6
+performance,MedCalc-Bench,Qwen3.8-Flash,rewritten,1,87.2
+performance,MedCalc-Bench,Qwen3.8-Flash,rewritten,5,81.5
+performance,MedCalc-Bench,Qwen3.8-Flash,rewritten,10,76.5
+performance,MedCalc-Bench,Qwen3.8-Flash,rewritten,30,77.6
+distance,SkillsBench,GPT-5.6-Luna,rewritten,0,1.501
+distance,SkillsBench,GPT-5.6-Luna,rewritten,1,1.2
+distance,SkillsBench,GPT-5.6-Luna,rewritten,2,1.184
+distance,SkillsBench,GPT-5.6-Luna,rewritten,3,1.163
+distance,SkillsBench,GPT-5.6-Luna,rewritten,5,1.161
+distance,SkillsBench,GPT-5.6-Luna,rewritten,7,1.163
+distance,SkillsBench,GPT-5.6-Luna,rewritten,10,1.168
+distance,SkillsBench,GPT-5.6-Luna,rewritten,15,1.17
+distance,SkillsBench,GPT-5.6-Luna,rewritten,20,1.171
+distance,SkillsBench,GPT-5.6-Luna,rewritten,25,1.182
+distance,SkillsBench,GPT-5.6-Luna,rewritten,30,1.184
+distance,SkillsBench,GPT-6.1-Sol,rewritten,0,1.681
+distance,SkillsBench,GPT-6.1-Sol,rewritten,1,1.298
+distance,SkillsBench,GPT-6.1-Sol,rewritten,2,1.265
+distance,SkillsBench,GPT-6.1-Sol,rewritten,3,1.263
+distance,SkillsBench,GPT-6.1-Sol,rewritten,5,1.295
+distance,SkillsBench,GPT-6.1-Sol,rewritten,7,1.293
+distance,SkillsBench,GPT-6.1-Sol,rewritten,10,1.295
+distance,SkillsBench,GPT-6.1-Sol,rewritten,15,1.32
+distance,SkillsBench,GPT-6.1-Sol,rewritten,20,1.318
+distance,SkillsBench,GPT-6.1-Sol,rewritten,25,1.34
+distance,SkillsBench,GPT-6.1-Sol,rewritten,30,1.344
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,0,1.288
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,1,1.235
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,2,1.205
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,3,1.199
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,5,1.185
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,7,1.178
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,10,1.181
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,15,1.179
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,20,1.181
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,25,1.184
+distance,SkillsBench,MiMo-V2.5-Pro,rewritten,30,1.177
+distance,SkillsBench,Qwen3.7-Plus,rewritten,0,1.411
+distance,SkillsBench,Qwen3.7-Plus,rewritten,1,1.325
+distance,SkillsBench,Qwen3.7-Plus,rewritten,2,1.298
+distance,SkillsBench,Qwen3.7-Plus,rewritten,3,1.287
+distance,SkillsBench,Qwen3.7-Plus,rewritten,5,1.278
+distance,SkillsBench,Qwen3.7-Plus,rewritten,7,1.269
+distance,SkillsBench,Qwen3.7-Plus,rewritten,10,1.283
+distance,SkillsBench,Qwen3.7-Plus,rewritten,15,1.281
+distance,SkillsBench,Qwen3.7-Plus,rewritten,20,1.269
+distance,SkillsBench,Qwen3.7-Plus,rewritten,25,1.265
+distance,SkillsBench,Qwen3.7-Plus,rewritten,30,1.284
+distance,SkillsBench,Claude Haiku 5.5,rewritten,0,1.448
+distance,SkillsBench,Claude Haiku 5.5,rewritten,1,1.307
+distance,SkillsBench,Claude Haiku 5.5,rewritten,2,1.276
+distance,SkillsBench,Claude Haiku 5.5,rewritten,3,1.273
+distance,SkillsBench,Claude Haiku 5.5,rewritten,5,1.278
+distance,SkillsBench,Claude Haiku 5.5,rewritten,7,1.29
+distance,SkillsBench,Claude Haiku 5.5,rewritten,10,1.292
+distance,SkillsBench,Claude Haiku 5.5,rewritten,15,1.324
+distance,SkillsBench,Claude Haiku 5.5,rewritten,20,1.315
+distance,SkillsBench,Claude Haiku 5.5,rewritten,25,1.329
+distance,SkillsBench,Claude Haiku 5.5,rewritten,30,1.35
+distance,SkillsBench,Qwen3.8-Flash,rewritten,0,1.329
+distance,SkillsBench,Qwen3.8-Flash,rewritten,1,1.176
+distance,SkillsBench,Qwen3.8-Flash,rewritten,2,1.157
+distance,SkillsBench,Qwen3.8-Flash,rewritten,3,1.143
+distance,SkillsBench,Qwen3.8-Flash,rewritten,5,1.143
+distance,SkillsBench,Qwen3.8-Flash,rewritten,7,1.132
+distance,SkillsBench,Qwen3.8-Flash,rewritten,10,1.151
+distance,SkillsBench,Qwen3.8-Flash,rewritten,15,1.162
+distance,SkillsBench,Qwen3.8-Flash,rewritten,20,1.181
+distance,SkillsBench,Qwen3.8-Flash,rewritten,25,1.183
+distance,SkillsBench,Qwen3.8-Flash,rewritten,30,1.198
+distance,LogicBench,GPT-5.6-Luna,rewritten,0,1.379
+distance,LogicBench,GPT-5.6-Luna,rewritten,1,1.193
+distance,LogicBench,GPT-5.6-Luna,rewritten,2,1.178
+distance,LogicBench,GPT-5.6-Luna,rewritten,3,1.18
+distance,LogicBench,GPT-5.6-Luna,rewritten,5,1.178
+distance,LogicBench,GPT-5.6-Luna,rewritten,7,1.18
+distance,LogicBench,GPT-5.6-Luna,rewritten,10,1.201
+distance,LogicBench,GPT-5.6-Luna,rewritten,15,1.196
+distance,LogicBench,GPT-5.6-Luna,rewritten,20,1.207
+distance,LogicBench,GPT-5.6-Luna,rewritten,25,1.213
+distance,LogicBench,GPT-5.6-Luna,rewritten,30,1.231
+distance,LogicBench,GPT-6.1-Sol,rewritten,0,1.432
+distance,LogicBench,GPT-6.1-Sol,rewritten,1,1.226
+distance,LogicBench,GPT-6.1-Sol,rewritten,2,1.183
+distance,LogicBench,GPT-6.1-Sol,rewritten,3,1.188
+distance,LogicBench,GPT-6.1-Sol,rewritten,5,1.156
+distance,LogicBench,GPT-6.1-Sol,rewritten,7,1.158
+distance,LogicBench,GPT-6.1-Sol,rewritten,10,1.16
+distance,LogicBench,GPT-6.1-Sol,rewritten,15,1.172
+distance,LogicBench,GPT-6.1-Sol,rewritten,20,1.196
+distance,LogicBench,GPT-6.1-Sol,rewritten,25,1.198
+distance,LogicBench,GPT-6.1-Sol,rewritten,30,1.216
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,0,1.207
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,1,1.128
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,2,1.121
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,3,1.115
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,5,1.103
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,7,1.1
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,10,1.09
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,15,1.081
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,20,1.093
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,25,1.071
+distance,LogicBench,MiMo-V2.5-Pro,rewritten,30,1.071
+distance,LogicBench,Qwen3.7-Plus,rewritten,0,1.319
+distance,LogicBench,Qwen3.7-Plus,rewritten,1,1.242
+distance,LogicBench,Qwen3.7-Plus,rewritten,2,1.218
+distance,LogicBench,Qwen3.7-Plus,rewritten,3,1.212
+distance,LogicBench,Qwen3.7-Plus,rewritten,5,1.218
+distance,LogicBench,Qwen3.7-Plus,rewritten,7,1.2
+distance,LogicBench,Qwen3.7-Plus,rewritten,10,1.19
+distance,LogicBench,Qwen3.7-Plus,rewritten,15,1.188
+distance,LogicBench,Qwen3.7-Plus,rewritten,20,1.18
+distance,LogicBench,Qwen3.7-Plus,rewritten,25,1.161
+distance,LogicBench,Qwen3.7-Plus,rewritten,30,1.175
+distance,LogicBench,Claude Haiku 5.5,rewritten,0,1.248
+distance,LogicBench,Claude Haiku 5.5,rewritten,1,1.2
+distance,LogicBench,Claude Haiku 5.5,rewritten,2,1.174
+distance,LogicBench,Claude Haiku 5.5,rewritten,3,1.164
+distance,LogicBench,Claude Haiku 5.5,rewritten,5,1.161
+distance,LogicBench,Claude Haiku 5.5,rewritten,7,1.17
+distance,LogicBench,Claude Haiku 5.5,rewritten,10,1.171
+distance,LogicBench,Claude Haiku 5.5,rewritten,15,1.171
+distance,LogicBench,Claude Haiku 5.5,rewritten,20,1.168
+distance,LogicBench,Claude Haiku 5.5,rewritten,25,1.198
+distance,LogicBench,Claude Haiku 5.5,rewritten,30,1.223
+distance,LogicBench,Qwen3.8-Flash,rewritten,0,1.205
+distance,LogicBench,Qwen3.8-Flash,rewritten,1,1.133
+distance,LogicBench,Qwen3.8-Flash,rewritten,2,1.111
+distance,LogicBench,Qwen3.8-Flash,rewritten,3,1.111
+distance,LogicBench,Qwen3.8-Flash,rewritten,5,1.109
+distance,LogicBench,Qwen3.8-Flash,rewritten,7,1.13
+distance,LogicBench,Qwen3.8-Flash,rewritten,10,1.137
+distance,LogicBench,Qwen3.8-Flash,rewritten,15,1.12
+distance,LogicBench,Qwen3.8-Flash,rewritten,20,1.132
+distance,LogicBench,Qwen3.8-Flash,rewritten,25,1.129
+distance,LogicBench,Qwen3.8-Flash,rewritten,30,1.16
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,0,1.364
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,1,1.139
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,2,1.116
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,3,1.128
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,5,1.135
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,7,1.152
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,10,1.139
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,15,1.168
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,20,1.169
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,25,1.184
+distance,MedCalc-Bench,GPT-5.6-Luna,rewritten,30,1.178
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,0,1.677
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,1,1.311
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,2,1.287
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,3,1.288
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,5,1.312
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,7,1.308
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,10,1.324
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,15,1.355
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,20,1.352
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,25,1.366
+distance,MedCalc-Bench,GPT-6.1-Sol,rewritten,30,1.388
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,0,1.219
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,1,1.136
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,2,1.104
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,3,1.098
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,5,1.075
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,7,1.078
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,10,1.086
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,15,1.076
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,20,1.084
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,25,1.094
+distance,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,30,1.098
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,0,1.307
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,1,1.249
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,2,1.222
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,3,1.218
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,5,1.205
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,7,1.212
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,10,1.201
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,15,1.215
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,20,1.204
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,25,1.228
+distance,MedCalc-Bench,Qwen3.7-Plus,rewritten,30,1.229
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,0,1.408
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,1,1.263
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,2,1.248
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,3,1.258
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,5,1.273
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,7,1.28
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,10,1.291
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,15,1.309
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,20,1.337
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,25,1.351
+distance,MedCalc-Bench,Claude Haiku 5.5,rewritten,30,1.364
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,0,1.22
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,1,1.131
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,2,1.123
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,3,1.123
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,5,1.114
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,7,1.132
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,10,1.132
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,15,1.144
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,20,1.151
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,25,1.153
+distance,MedCalc-Bench,Qwen3.8-Flash,rewritten,30,1.166
+retention,SkillsBench,GPT-5.6-Luna,round-1,0,26.9
+retention,SkillsBench,GPT-5.6-Luna,round-1,2,50.0
+retention,SkillsBench,GPT-5.6-Luna,round-1,5,62.5
+retention,SkillsBench,GPT-5.6-Luna,round-1,8,70.4
+retention,SkillsBench,GPT-5.6-Luna,round-1,10,85.2
+retention,SkillsBench,GPT-5.6-Luna,round-30,0,10.0
+retention,SkillsBench,GPT-5.6-Luna,round-30,2,30.9
+retention,SkillsBench,GPT-5.6-Luna,round-30,5,46.7
+retention,SkillsBench,GPT-5.6-Luna,round-30,8,59.9
+retention,SkillsBench,GPT-5.6-Luna,round-30,10,82.8
+retention,SkillsBench,GPT-6.1-Sol,round-1,0,24.6
+retention,SkillsBench,GPT-6.1-Sol,round-1,2,43.7
+retention,SkillsBench,GPT-6.1-Sol,round-1,5,53.2
+retention,SkillsBench,GPT-6.1-Sol,round-1,8,67.3
+retention,SkillsBench,GPT-6.1-Sol,round-1,10,86.8
+retention,SkillsBench,GPT-6.1-Sol,round-30,0,6.6
+retention,SkillsBench,GPT-6.1-Sol,round-30,2,20.0
+retention,SkillsBench,GPT-6.1-Sol,round-30,5,33.7
+retention,SkillsBench,GPT-6.1-Sol,round-30,8,49.1
+retention,SkillsBench,GPT-6.1-Sol,round-30,10,81.3
+retention,SkillsBench,MiMo-V2.5-Pro,round-1,0,76.9
+retention,SkillsBench,MiMo-V2.5-Pro,round-1,2,81.8
+retention,SkillsBench,MiMo-V2.5-Pro,round-1,5,89.1
+retention,SkillsBench,MiMo-V2.5-Pro,round-1,8,91.0
+retention,SkillsBench,MiMo-V2.5-Pro,round-1,10,94.6
+retention,SkillsBench,MiMo-V2.5-Pro,round-30,0,31.5
+retention,SkillsBench,MiMo-V2.5-Pro,round-30,2,54.9
+retention,SkillsBench,MiMo-V2.5-Pro,round-30,5,67.4
+retention,SkillsBench,MiMo-V2.5-Pro,round-30,8,80.2
+retention,SkillsBench,MiMo-V2.5-Pro,round-30,10,90.1
+retention,SkillsBench,Qwen3.7-Plus,round-1,0,62.5
+retention,SkillsBench,Qwen3.7-Plus,round-1,2,70.8
+retention,SkillsBench,Qwen3.7-Plus,round-1,5,76.5
+retention,SkillsBench,Qwen3.7-Plus,round-1,8,83.3
+retention,SkillsBench,Qwen3.7-Plus,round-1,10,91.2
+retention,SkillsBench,Qwen3.7-Plus,round-30,0,20.9
+retention,SkillsBench,Qwen3.7-Plus,round-30,2,42.6
+retention,SkillsBench,Qwen3.7-Plus,round-30,5,52.5
+retention,SkillsBench,Qwen3.7-Plus,round-30,8,65.4
+retention,SkillsBench,Qwen3.7-Plus,round-30,10,85.5
+retention,SkillsBench,Claude Haiku 5.5,round-1,0,70.4
+retention,SkillsBench,Claude Haiku 5.5,round-1,2,75.6
+retention,SkillsBench,Claude Haiku 5.5,round-1,5,81.5
+retention,SkillsBench,Claude Haiku 5.5,round-1,8,84.6
+retention,SkillsBench,Claude Haiku 5.5,round-1,10,89.3
+retention,SkillsBench,Claude Haiku 5.5,round-30,0,37.1
+retention,SkillsBench,Claude Haiku 5.5,round-30,2,48.8
+retention,SkillsBench,Claude Haiku 5.5,round-30,5,56.6
+retention,SkillsBench,Claude Haiku 5.5,round-30,8,65.5
+retention,SkillsBench,Claude Haiku 5.5,round-30,10,82.1
+retention,SkillsBench,Qwen3.8-Flash,round-1,0,41.8
+retention,SkillsBench,Qwen3.8-Flash,round-1,2,62.8
+retention,SkillsBench,Qwen3.8-Flash,round-1,5,68.4
+retention,SkillsBench,Qwen3.8-Flash,round-1,8,81.3
+retention,SkillsBench,Qwen3.8-Flash,round-1,10,88.5
+retention,SkillsBench,Qwen3.8-Flash,round-30,0,5.9
+retention,SkillsBench,Qwen3.8-Flash,round-30,2,20.7
+retention,SkillsBench,Qwen3.8-Flash,round-30,5,37.2
+retention,SkillsBench,Qwen3.8-Flash,round-30,8,52.8
+retention,SkillsBench,Qwen3.8-Flash,round-30,10,74.9
+retention,LogicBench,GPT-5.6-Luna,round-1,0,62.0
+retention,LogicBench,GPT-5.6-Luna,round-1,2,77.7
+retention,LogicBench,GPT-5.6-Luna,round-1,5,73.9
+retention,LogicBench,GPT-5.6-Luna,round-1,8,85.9
+retention,LogicBench,GPT-5.6-Luna,round-1,10,93.9
+retention,LogicBench,GPT-5.6-Luna,round-30,0,19.2
+retention,LogicBench,GPT-5.6-Luna,round-30,2,41.2
+retention,LogicBench,GPT-5.6-Luna,round-30,5,50.4
+retention,LogicBench,GPT-5.6-Luna,round-30,8,63.6
+retention,LogicBench,GPT-5.6-Luna,round-30,10,80.1
+retention,LogicBench,GPT-6.1-Sol,round-1,0,56.2
+retention,LogicBench,GPT-6.1-Sol,round-1,2,65.1
+retention,LogicBench,GPT-6.1-Sol,round-1,5,68.9
+retention,LogicBench,GPT-6.1-Sol,round-1,8,77.5
+retention,LogicBench,GPT-6.1-Sol,round-1,10,90.8
+retention,LogicBench,GPT-6.1-Sol,round-30,0,11.2
+retention,LogicBench,GPT-6.1-Sol,round-30,2,34.9
+retention,LogicBench,GPT-6.1-Sol,round-30,5,39.3
+retention,LogicBench,GPT-6.1-Sol,round-30,8,51.6
+retention,LogicBench,GPT-6.1-Sol,round-30,10,81.6
+retention,LogicBench,MiMo-V2.5-Pro,round-1,0,79.3
+retention,LogicBench,MiMo-V2.5-Pro,round-1,2,91.7
+retention,LogicBench,MiMo-V2.5-Pro,round-1,5,94.7
+retention,LogicBench,MiMo-V2.5-Pro,round-1,8,95.4
+retention,LogicBench,MiMo-V2.5-Pro,round-1,10,97.8
+retention,LogicBench,MiMo-V2.5-Pro,round-30,0,27.0
+retention,LogicBench,MiMo-V2.5-Pro,round-30,2,65.3
+retention,LogicBench,MiMo-V2.5-Pro,round-30,5,76.3
+retention,LogicBench,MiMo-V2.5-Pro,round-30,8,82.3
+retention,LogicBench,MiMo-V2.5-Pro,round-30,10,90.1
+retention,LogicBench,Qwen3.7-Plus,round-1,0,62.7
+retention,LogicBench,Qwen3.7-Plus,round-1,2,85.0
+retention,LogicBench,Qwen3.7-Plus,round-1,5,90.0
+retention,LogicBench,Qwen3.7-Plus,round-1,8,89.9
+retention,LogicBench,Qwen3.7-Plus,round-1,10,95.5
+retention,LogicBench,Qwen3.7-Plus,round-30,0,22.1
+retention,LogicBench,Qwen3.7-Plus,round-30,2,49.7
+retention,LogicBench,Qwen3.7-Plus,round-30,5,69.9
+retention,LogicBench,Qwen3.7-Plus,round-30,8,72.5
+retention,LogicBench,Qwen3.7-Plus,round-30,10,88.3
+retention,LogicBench,Claude Haiku 5.5,round-1,0,79.6
+retention,LogicBench,Claude Haiku 5.5,round-1,2,87.2
+retention,LogicBench,Claude Haiku 5.5,round-1,5,89.9
+retention,LogicBench,Claude Haiku 5.5,round-1,8,92.1
+retention,LogicBench,Claude Haiku 5.5,round-1,10,98.3
+retention,LogicBench,Claude Haiku 5.5,round-30,0,56.4
+retention,LogicBench,Claude Haiku 5.5,round-30,2,73.3
+retention,LogicBench,Claude Haiku 5.5,round-30,5,69.6
+retention,LogicBench,Claude Haiku 5.5,round-30,8,87.3
+retention,LogicBench,Claude Haiku 5.5,round-30,10,92.4
+retention,LogicBench,Qwen3.8-Flash,round-1,0,61.3
+retention,LogicBench,Qwen3.8-Flash,round-1,2,66.4
+retention,LogicBench,Qwen3.8-Flash,round-1,5,86.9
+retention,LogicBench,Qwen3.8-Flash,round-1,8,89.1
+retention,LogicBench,Qwen3.8-Flash,round-1,10,90.1
+retention,LogicBench,Qwen3.8-Flash,round-30,0,16.5
+retention,LogicBench,Qwen3.8-Flash,round-30,2,25.6
+retention,LogicBench,Qwen3.8-Flash,round-30,5,46.0
+retention,LogicBench,Qwen3.8-Flash,round-30,8,54.2
+retention,LogicBench,Qwen3.8-Flash,round-30,10,74.0
+retention,MedCalc-Bench,GPT-5.6-Luna,round-1,0,55.5
+retention,MedCalc-Bench,GPT-5.6-Luna,round-1,2,55.4
+retention,MedCalc-Bench,GPT-5.6-Luna,round-1,5,69.8
+retention,MedCalc-Bench,GPT-5.6-Luna,round-1,8,81.7
+retention,MedCalc-Bench,GPT-5.6-Luna,round-1,10,94.0
+retention,MedCalc-Bench,GPT-5.6-Luna,round-30,0,19.9
+retention,MedCalc-Bench,GPT-5.6-Luna,round-30,2,29.1
+retention,MedCalc-Bench,GPT-5.6-Luna,round-30,5,45.0
+retention,MedCalc-Bench,GPT-5.6-Luna,round-30,8,60.2
+retention,MedCalc-Bench,GPT-5.6-Luna,round-30,10,85.3
+retention,MedCalc-Bench,GPT-6.1-Sol,round-1,0,41.7
+retention,MedCalc-Bench,GPT-6.1-Sol,round-1,2,52.4
+retention,MedCalc-Bench,GPT-6.1-Sol,round-1,5,57.9
+retention,MedCalc-Bench,GPT-6.1-Sol,round-1,8,86.2
+retention,MedCalc-Bench,GPT-6.1-Sol,round-1,10,93.5
+retention,MedCalc-Bench,GPT-6.1-Sol,round-30,0,15.3
+retention,MedCalc-Bench,GPT-6.1-Sol,round-30,2,19.7
+retention,MedCalc-Bench,GPT-6.1-Sol,round-30,5,38.6
+retention,MedCalc-Bench,GPT-6.1-Sol,round-30,8,60.2
+retention,MedCalc-Bench,GPT-6.1-Sol,round-30,10,85.1
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-1,0,74.1
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-1,2,86.0
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-1,5,90.8
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-1,8,94.1
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-1,10,97.0
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-30,0,20.8
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-30,2,40.0
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-30,5,59.5
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-30,8,72.0
+retention,MedCalc-Bench,MiMo-V2.5-Pro,round-30,10,90.4
+retention,MedCalc-Bench,Qwen3.7-Plus,round-1,0,69.6
+retention,MedCalc-Bench,Qwen3.7-Plus,round-1,2,72.0
+retention,MedCalc-Bench,Qwen3.7-Plus,round-1,5,82.1
+retention,MedCalc-Bench,Qwen3.7-Plus,round-1,8,86.5
+retention,MedCalc-Bench,Qwen3.7-Plus,round-1,10,92.5
+retention,MedCalc-Bench,Qwen3.7-Plus,round-30,0,38.5
+retention,MedCalc-Bench,Qwen3.7-Plus,round-30,2,41.8
+retention,MedCalc-Bench,Qwen3.7-Plus,round-30,5,62.9
+retention,MedCalc-Bench,Qwen3.7-Plus,round-30,8,72.0
+retention,MedCalc-Bench,Qwen3.7-Plus,round-30,10,86.7
+retention,MedCalc-Bench,Claude Haiku 5.5,round-1,0,79.9
+retention,MedCalc-Bench,Claude Haiku 5.5,round-1,2,80.2
+retention,MedCalc-Bench,Claude Haiku 5.5,round-1,5,89.4
+retention,MedCalc-Bench,Claude Haiku 5.5,round-1,8,87.9
+retention,MedCalc-Bench,Claude Haiku 5.5,round-1,10,94.6
+retention,MedCalc-Bench,Claude Haiku 5.5,round-30,0,51.8
+retention,MedCalc-Bench,Claude Haiku 5.5,round-30,2,56.1
+retention,MedCalc-Bench,Claude Haiku 5.5,round-30,5,59.6
+retention,MedCalc-Bench,Claude Haiku 5.5,round-30,8,67.9
+retention,MedCalc-Bench,Claude Haiku 5.5,round-30,10,88.1
+retention,MedCalc-Bench,Qwen3.8-Flash,round-1,0,63.9
+retention,MedCalc-Bench,Qwen3.8-Flash,round-1,2,78.6
+retention,MedCalc-Bench,Qwen3.8-Flash,round-1,5,81.8
+retention,MedCalc-Bench,Qwen3.8-Flash,round-1,8,89.2
+retention,MedCalc-Bench,Qwen3.8-Flash,round-1,10,93.5
+retention,MedCalc-Bench,Qwen3.8-Flash,round-30,0,4.8
+retention,MedCalc-Bench,Qwen3.8-Flash,round-30,2,22.1
+retention,MedCalc-Bench,Qwen3.8-Flash,round-30,5,43.6
+retention,MedCalc-Bench,Qwen3.8-Flash,round-30,8,64.8
+retention,MedCalc-Bench,Qwen3.8-Flash,round-30,10,76.5
+restoration,SkillsBench,GPT-5.6-Luna,rewritten,0,44.8
+restoration,SkillsBench,GPT-5.6-Luna,rewritten,1,21.8
+restoration,SkillsBench,GPT-5.6-Luna,restored-outside,1,21.8
+restoration,SkillsBench,GPT-5.6-Luna,restored-outside,2,37.9
+restoration,SkillsBench,GPT-5.6-Luna,restored-other,1,21.8
+restoration,SkillsBench,GPT-5.6-Luna,restored-other,2,27.6
+restoration,SkillsBench,GPT-6.1-Sol,rewritten,0,55.2
+restoration,SkillsBench,GPT-6.1-Sol,rewritten,1,42.5
+restoration,SkillsBench,GPT-6.1-Sol,restored-outside,1,42.5
+restoration,SkillsBench,GPT-6.1-Sol,restored-outside,2,48.3
+restoration,SkillsBench,GPT-6.1-Sol,restored-other,1,42.5
+restoration,SkillsBench,GPT-6.1-Sol,restored-other,2,46.0
+restoration,SkillsBench,MiMo-V2.5-Pro,rewritten,0,26.4
+restoration,SkillsBench,MiMo-V2.5-Pro,rewritten,1,14.9
+restoration,SkillsBench,MiMo-V2.5-Pro,restored-outside,1,14.9
+restoration,SkillsBench,MiMo-V2.5-Pro,restored-outside,2,27.6
+restoration,SkillsBench,MiMo-V2.5-Pro,restored-other,1,14.9
+restoration,SkillsBench,MiMo-V2.5-Pro,restored-other,2,21.8
+restoration,SkillsBench,Qwen3.7-Plus,rewritten,0,39.1
+restoration,SkillsBench,Qwen3.7-Plus,rewritten,1,21.8
+restoration,SkillsBench,Qwen3.7-Plus,restored-outside,1,21.8
+restoration,SkillsBench,Qwen3.7-Plus,restored-outside,2,28.7
+restoration,SkillsBench,Qwen3.7-Plus,restored-other,1,21.8
+restoration,SkillsBench,Qwen3.7-Plus,restored-other,2,23.0
+restoration,SkillsBench,Claude Haiku 5.5,rewritten,0,47.1
+restoration,SkillsBench,Claude Haiku 5.5,rewritten,1,34.5
+restoration,SkillsBench,Claude Haiku 5.5,restored-outside,1,34.5
+restoration,SkillsBench,Claude Haiku 5.5,restored-outside,2,42.5
+restoration,SkillsBench,Claude Haiku 5.5,restored-other,1,34.5
+restoration,SkillsBench,Claude Haiku 5.5,restored-other,2,39.1
+restoration,SkillsBench,Qwen3.8-Flash,rewritten,0,28.7
+restoration,SkillsBench,Qwen3.8-Flash,rewritten,1,18.4
+restoration,SkillsBench,Qwen3.8-Flash,restored-outside,1,18.4
+restoration,SkillsBench,Qwen3.8-Flash,restored-outside,2,21.8
+restoration,SkillsBench,Qwen3.8-Flash,restored-other,1,18.4
+restoration,SkillsBench,Qwen3.8-Flash,restored-other,2,23.0
+restoration,LogicBench,GPT-5.6-Luna,rewritten,0,91.6
+restoration,LogicBench,GPT-5.6-Luna,rewritten,1,72.1
+restoration,LogicBench,GPT-5.6-Luna,restored-outside,1,72.1
+restoration,LogicBench,GPT-5.6-Luna,restored-outside,2,85.7
+restoration,LogicBench,GPT-5.6-Luna,restored-other,1,72.1
+restoration,LogicBench,GPT-5.6-Luna,restored-other,2,80.1
+restoration,LogicBench,GPT-6.1-Sol,rewritten,0,92.1
+restoration,LogicBench,GPT-6.1-Sol,rewritten,1,76.1
+restoration,LogicBench,GPT-6.1-Sol,restored-outside,1,76.1
+restoration,LogicBench,GPT-6.1-Sol,restored-outside,2,87.1
+restoration,LogicBench,GPT-6.1-Sol,restored-other,1,76.1
+restoration,LogicBench,GPT-6.1-Sol,restored-other,2,82.5
+restoration,LogicBench,MiMo-V2.5-Pro,rewritten,0,81.8
+restoration,LogicBench,MiMo-V2.5-Pro,rewritten,1,69.3
+restoration,LogicBench,MiMo-V2.5-Pro,restored-outside,1,69.3
+restoration,LogicBench,MiMo-V2.5-Pro,restored-outside,2,78.8
+restoration,LogicBench,MiMo-V2.5-Pro,restored-other,1,69.3
+restoration,LogicBench,MiMo-V2.5-Pro,restored-other,2,72.8
+restoration,LogicBench,Qwen3.7-Plus,rewritten,0,91.8
+restoration,LogicBench,Qwen3.7-Plus,rewritten,1,80.7
+restoration,LogicBench,Qwen3.7-Plus,restored-outside,1,80.7
+restoration,LogicBench,Qwen3.7-Plus,restored-outside,2,88.3
+restoration,LogicBench,Qwen3.7-Plus,restored-other,1,80.7
+restoration,LogicBench,Qwen3.7-Plus,restored-other,2,82.4
+restoration,LogicBench,Claude Haiku 5.5,rewritten,0,70.8
+restoration,LogicBench,Claude Haiku 5.5,rewritten,1,63.9
+restoration,LogicBench,Claude Haiku 5.5,restored-outside,1,63.9
+restoration,LogicBench,Claude Haiku 5.5,restored-outside,2,66.7
+restoration,LogicBench,Claude Haiku 5.5,restored-other,1,63.9
+restoration,LogicBench,Claude Haiku 5.5,restored-other,2,65.1
+restoration,LogicBench,Qwen3.8-Flash,rewritten,0,88.8
+restoration,LogicBench,Qwen3.8-Flash,rewritten,1,66.4
+restoration,LogicBench,Qwen3.8-Flash,restored-outside,1,66.4
+restoration,LogicBench,Qwen3.8-Flash,restored-outside,2,75.9
+restoration,LogicBench,Qwen3.8-Flash,restored-other,1,66.4
+restoration,LogicBench,Qwen3.8-Flash,restored-other,2,67.0
+restoration,MedCalc-Bench,GPT-5.6-Luna,rewritten,0,89.1
+restoration,MedCalc-Bench,GPT-5.6-Luna,rewritten,1,85.5
+restoration,MedCalc-Bench,GPT-5.6-Luna,restored-outside,1,85.5
+restoration,MedCalc-Bench,GPT-5.6-Luna,restored-outside,2,86.3
+restoration,MedCalc-Bench,GPT-5.6-Luna,restored-other,1,85.5
+restoration,MedCalc-Bench,GPT-5.6-Luna,restored-other,2,83.7
+restoration,MedCalc-Bench,GPT-6.1-Sol,rewritten,0,90.2
+restoration,MedCalc-Bench,GPT-6.1-Sol,rewritten,1,73.7
+restoration,MedCalc-Bench,GPT-6.1-Sol,restored-outside,1,73.7
+restoration,MedCalc-Bench,GPT-6.1-Sol,restored-outside,2,82.0
+restoration,MedCalc-Bench,GPT-6.1-Sol,restored-other,1,73.7
+restoration,MedCalc-Bench,GPT-6.1-Sol,restored-other,2,76.0
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,0,85.5
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,rewritten,1,79.5
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,restored-outside,1,79.5
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,restored-outside,2,77.9
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,restored-other,1,79.5
+restoration,MedCalc-Bench,MiMo-V2.5-Pro,restored-other,2,82.2
+restoration,MedCalc-Bench,Qwen3.7-Plus,rewritten,0,91.6
+restoration,MedCalc-Bench,Qwen3.7-Plus,rewritten,1,81.5
+restoration,MedCalc-Bench,Qwen3.7-Plus,restored-outside,1,81.5
+restoration,MedCalc-Bench,Qwen3.7-Plus,restored-outside,2,87.6
+restoration,MedCalc-Bench,Qwen3.7-Plus,restored-other,1,81.5
+restoration,MedCalc-Bench,Qwen3.7-Plus,restored-other,2,82.6
+restoration,MedCalc-Bench,Claude Haiku 5.5,rewritten,0,91.4
+restoration,MedCalc-Bench,Claude Haiku 5.5,rewritten,1,74.0
+restoration,MedCalc-Bench,Claude Haiku 5.5,restored-outside,1,74.0
+restoration,MedCalc-Bench,Claude Haiku 5.5,restored-outside,2,79.2
+restoration,MedCalc-Bench,Claude Haiku 5.5,restored-other,1,74.0
+restoration,MedCalc-Bench,Claude Haiku 5.5,restored-other,2,75.2
+restoration,MedCalc-Bench,Qwen3.8-Flash,rewritten,0,90.6
+restoration,MedCalc-Bench,Qwen3.8-Flash,rewritten,1,77.6
+restoration,MedCalc-Bench,Qwen3.8-Flash,restored-outside,1,77.6
+restoration,MedCalc-Bench,Qwen3.8-Flash,restored-outside,2,85.7
+restoration,MedCalc-Bench,Qwen3.8-Flash,restored-other,1,77.6
+restoration,MedCalc-Bench,Qwen3.8-Flash,restored-other,2,80.1
+skilldiff,SkillsBench,GPT-5.6-Luna,skilldiff,0,12.6
+skilldiff,SkillsBench,GPT-6.1-Sol,skilldiff,0,5.7
+skilldiff,SkillsBench,MiMo-V2.5-Pro,skilldiff,0,3.4
+skilldiff,SkillsBench,Qwen3.7-Plus,skilldiff,0,2.3
+skilldiff,SkillsBench,Claude Haiku 5.5,skilldiff,0,3.4
+skilldiff,SkillsBench,Qwen3.8-Flash,skilldiff,0,1.1

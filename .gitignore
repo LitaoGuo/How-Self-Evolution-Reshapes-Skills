@@ -1,0 +1,6 @@
+__pycache__/
+/.venv/
+/outputs/
+/runs/
+/data/originals/
+/data/topics/
